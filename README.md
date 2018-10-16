@@ -1,4 +1,7 @@
 # FB Marketing Data File Uploader
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Rachelmorrell/marketing-data-file-uploader.svg)](https://greenkeeper.io/)
+
 FB Marketing Data File Uploader (referred as 'MDFU' hereinafter) is a command line tool and node.js module that helps Facebook advertisers and marketing partners upload offline transactions and customer lists to the FB marketing API without building their own application for API integration.
 
 ## Why use MDFU?
